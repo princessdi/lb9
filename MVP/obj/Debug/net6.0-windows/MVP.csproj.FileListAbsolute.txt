@@ -1,0 +1,17 @@
+C:\Users\Michael\source\repos\DILabs\MVP\bin\Debug\net6.0-windows\MVP.exe
+C:\Users\Michael\source\repos\DILabs\MVP\bin\Debug\net6.0-windows\MVP.deps.json
+C:\Users\Michael\source\repos\DILabs\MVP\bin\Debug\net6.0-windows\MVP.runtimeconfig.json
+C:\Users\Michael\source\repos\DILabs\MVP\bin\Debug\net6.0-windows\MVP.dll
+C:\Users\Michael\source\repos\DILabs\MVP\bin\Debug\net6.0-windows\MVP.pdb
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.csproj.AssemblyReference.cache
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.MainView.resources
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.csproj.GenerateResource.cache
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.AssemblyInfoInputs.cache
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.AssemblyInfo.cs
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.csproj.CoreCompileInputs.cache
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.dll
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\refint\MVP.dll
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.pdb
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\MVP.genruntimeconfig.cache
+C:\Users\Michael\source\repos\DILabs\MVP\obj\Debug\net6.0-windows\ref\MVP.dll
